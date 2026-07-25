@@ -8,6 +8,7 @@
 
 // Return the integer as the final result.
 
+
 class Solution {
     public int myAtoi(String s) {
         int  i = 0;
